@@ -1,0 +1,32 @@
+.homepage {
+  background: no-repeat url(./../../../public/assets/desert.png);
+  background-size: cover;
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.battlewrapper,
+.endwrapper {
+  background: no-repeat url(./../../../public/assets/desert.png);
+  background-size: cover;
+
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mapwrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/*.grid {
+  width:744px;height:744px
+}*/
