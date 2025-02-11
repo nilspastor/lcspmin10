@@ -1,3 +1,4 @@
-# Project built with React
+# LCSP - Module de combat
 
-Les Contes sans Plume, jeu de rôle - avec un aspect stratégique - sur navigateur web et mobile.
+Module de combat
+Technologies utilisées : HTML, CSS, JavaScript, ReactJS
