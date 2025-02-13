@@ -3,4 +3,4 @@
 Module de combat
 Technologies utilisées : HTML, CSS, JavaScript, ReactJS
 
-Exemple : https://lcsp.io/
+Demo : https://lcsp.io/
